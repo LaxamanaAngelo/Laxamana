@@ -1,5 +1,30 @@
-# Strawberries
-blueberries
-raspberries 
-tomatoes
-carrots, cucumbers, apricots, sweet potatoes, peaches, plums, melons, eggplant, lemons, lettuce, green beans, kale, broccoli, Brussels sprouts, cabbage, spinach, corn, Swiss chard, celery, beets, onions, cauliflower, cherries, bananas, mushrooms
+Strawberries = $0.46 
+Blueberries = $0.50
+Raspberries  = $0.30
+Tomatoes = $0.50
+Carrots = $0.67
+Cucumber = $0.67
+Apricots = $0.70
+Sweet potatoe = $1.58
+Peache = $0.35
+Plums = $0.75
+Melons = $0.67
+Eggplant = $1.55
+Lemons = $0.66
+Lettuce = $0.77
+Green beans = $0.63 
+Kale = $0.35
+Broccoli = $0.67
+Brussels sprouts = $0.80
+Cabbage = $0.80
+Spinach = $0.65
+Corn = $0.45
+Swiss char = $0.90
+Celery = $0.95
+Beets = $0.57
+Onions = $1.00
+Cauliflower = $2.67
+Cherries = $02.67
+Bananas = $1.69
+Mushrooms = $0.99
+Parsnips = $0.47
